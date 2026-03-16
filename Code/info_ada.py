@@ -1,0 +1,15 @@
+claves_ideas = ["titulo", "descripcion", "tags", "fecha", "estado", "indice"]
+fonts_info = {"Segoe UI": "Es la que usa Windows 11. Imbatible para botones y menús",
+              "Segoe UI Variable": "Una versión más moderna que se ajusta mejor a distintos tamaños",
+              "Calibri": "Suave, redondeada y muy fácil de leer",
+              "Verdana": "Diseñada específicamente para ser leída en monitores pequeños",
+              "Cascadia Code": "Es la fuente estrella actual de Microsoft. Tiene un look muy \"hacker\" moderno",
+              "Consolas": "El estándar de la industria. No cansa la vista",
+              "Lucida Console": "Un toque más clásico y robusto",
+              "Bahnschrift": "Es una fuente \"DIN\" (estándar alemán). Se ve extremadamente técnica y limpia",
+              "Impact": "Ideal si necesitas un aviso urgente o un título muy grueso",
+              "Agency FB": "Estilo alto y delgado, muy usado en interfaces de ciencia ficción o deportes",
+              "Arial Rounded MT": "Si buscas un look más amigable y menos serio",
+              "Cambria": "Mucho más moderna y clara que la vieja Times New Roman",
+              "Georgia": "Tiene mucha personalidad y se lee perfecto en pantalla",
+              "Constantia": "Una de las fuentes más elegantes de tu lista"}
