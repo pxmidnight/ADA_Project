@@ -1,0 +1,17 @@
+# --- Carpetas con información personal o borradores ---
+Practica/
+teoria/
+Code/files/
+
+# --- Configuración de Editores (VS Code) ---
+.vscode/
+
+# --- Archivos temporales de Python (Basura) ---
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# --- Archivos del sistema ---
+Thumbs.db
+.DS_Store
